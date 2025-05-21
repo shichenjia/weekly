@@ -1,22 +1,42 @@
 Weekly
-======
+========
 
-汇总平时看到优质文章和资源，技术、产品、管理均有，尽可能一周一篇。  
-同时分门别类收录前端研发相关的 javascript、css、php、python、管理等方面的高质量文章、类库。  
-欢迎大家在 [resources](resources) 中补充优质资源。  
-
-太忙时会忘了提交 Github，欢迎关注语雀知识库： https://www.yuque.com/awesome/fe_weekly 并补充在个人账户设置中补充邮箱，这样就可以第一时间可看到 Weekly。
+> 红豆生南国，春来发几枝。  
+> 为君多采撷，此物最相思。
 
 
-## Weekly 汇总
+欢迎关注： https://www.yuque.com/zenany  
+期待每个人都能形成自己的信息库：[致读者 - 开始构建你的信息中心](https://www.yuque.com/zenany/fe_weekly/about)
 
+
+## ⛵️拾一集☯️
+
+> 道生一，一生二，二生三，三生万物  
+
+⭐️捡起 星星点点 散落人间的 一 的种子☀️
+
+- 2024: <https://github.com/zenany/weekly/tree/master/shiyi/2024> 
+
+## 🌐Web 技术周刊汇总📖
+
+> 因重心转向中医和中国文化，暂告一段落，感谢大家长期以来的关注与支持🤝❤️🍀  
+> 后续会整理：[拾一集](https://github.com/zenany/weekly/tree/master/shiyi)，欢迎感兴趣的朋友共学中国文化☯️
+
+- 2024年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2024> 
+- 2023年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2023> 
+- 2022年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2022> 
+- 2021年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2021> 
 - 2020年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2020> 
 - 2019年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2019> 
 - 2018年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2018> 
 - 2017年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2017>  
 - 2016年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2016>  
 - 2015年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2015>  
-- 2014年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2014>  
+- 2014年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2014>
+
+## 效率套件
+
+来自 [@xudafeng](https://github.com/xudafeng) 精选的工具集： https://github.com/xudafeng/the-tools-i-use
 
 ## 学习资源
 
@@ -36,7 +56,8 @@ Weekly
 ## My Articles  
 
 - [关于时间和知识管理](https://github.com/zenany/zenany.github.io/blob/master/_posts/about_time_and_knowledge_management.md)  
-- [[WIP]Web 前端研发旅行指南](https://github.com/zenany/zenany.github.io/blob/master/_posts/about_frontend.md)  
+- [Web 前端研发旅行指南](https://github.com/zenany/zenany.github.io/blob/master/_posts/about_frontend.md)
+- [数字花园](https://www.yuque.com/zenany)
 
 ## 个人推荐
 
@@ -55,15 +76,6 @@ Architects look at thousands of buildings during their training, and study criti
 
 ## 优质网站
 
-### 性能优化
-
-- http://blog.optimizely.com/  
-- http://www.perfplanet.com/  
-- http://www.speedawarenessmonth.com/  
-- http://browserdiet.com/en/  
-- http://jankfree.org/
-- http://calendar.perfplanet.com/  
-
 ### tech
 
 - [Hacker News](https://news.ycombinator.com/) : 不知道这个别说自己热爱技术、热爱互联网  
@@ -78,12 +90,7 @@ Architects look at thousands of buildings during their training, and study criti
 
 ## 个人知识库
 
-- [books](books.md) 记录我看过和计划看的书，14年后半年开始重点关注自然科学、计算机科学
-- [readings](books.md) ted 视频、记录片等
-- [杂项](resources.md) 暂未归类的一些资源
+- [books](books.md)  
+- [readings](readings.md)  
+- [杂项](resources.md)  
 
-## 资源集散中心
-
-- [JavaScript](resources/javascript.md)  
-- [node.js](resources/nodejs.md)  
-- [Android开发技术周报](http://www.androidweekly.cn/)  
